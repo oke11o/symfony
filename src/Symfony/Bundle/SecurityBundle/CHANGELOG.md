@@ -12,6 +12,7 @@ CHANGELOG
  * Added `Symfony\Bundle\SecurityBundle\DependencyInjection\Compiler\AddExpressionLanguageProvidersPass`
  * Added `json_login_ldap` authentication provider to use LDAP authentication with a REST API.
  
+ 
 4.1.0
 -----
 
